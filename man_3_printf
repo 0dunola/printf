@@ -6,7 +6,7 @@ npage for _printf.
 .nf
 .BI printf (FORMAT, ARGUMENT)...
 .PP
-.BI "#include 'holberton.h'"
+.BI "#include 'main.h'"
 .BI "#include <stdarg.h>"
 .BI "#include <unistd.h>"
 .PP
@@ -123,5 +123,5 @@ int main(void)
 .SH SEE ALSO
 .R printf(3)
 .SH AUTHORS
-Written by \f Odelola Joshua and \f Timileyin Omolana; Credits - \fBDiego López\fR and \fBLuis Chaparro\fR.
+Written by \f Odelola John; Credits - \fBDiego López\fR and \fBLuis Chaparro\fR.
 
